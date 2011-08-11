@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<module>
+	<type>language</type>
+	<name>Thai</name>
+	<label>Thai (ภาษาไทย)</label>
+	<prefix>th-TH</prefix>
+	<version>5.2.1</version>
+	<encoding>UTF-8</encoding>
+	<creationDate>2011-05-30 20:08:14</creationDate>
+	<author>Open Source Education And Development Association</author>
+	<license>MPL1.1</license>
+	<dependencies>
+		<vtiger_version>5.1.0</vtiger_version>
+		<vtiger_max_version>5.*</vtiger_max_version>
+	</dependencies>
+</module>
+
